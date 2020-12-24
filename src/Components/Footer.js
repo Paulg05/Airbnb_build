@@ -8,7 +8,7 @@ function Footer() {
         © 2020 Airbnb clone! No rights reserved - Used for learning purposes
         only{" "}
       </p>
-      <p>Privacy - Terms - Sitemap - Company Details</p>
+      <p>Privacy • Terms • Sitemap • Company Details</p>
     </div>
   );
 }
